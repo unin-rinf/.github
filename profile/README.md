@@ -14,7 +14,7 @@ Cilj ovog okruženja je simulacija kolaboracijskog radnog prostora u oblaku koji
 ### 🏗️ Struktura organizacije
 Okruženje je organizirano kroz logičnu hijerarhiju repozitorija uz primjenu dosljednih konvencija imenovanja
 
-*   [howto-vasi-projekti](https://duckduckgo.com) – Osnovne upute kako kreirati svoj repozitorij unutar ove organizacije
+*   [howto-vasi-projekti](https://github.com/unin-rinf/howto-vasi-projekti) – Osnovne upute kako kreirati svoj repozitorij unutar ove organizacije
 *   [nastavni-materijali](https://github.com/unin-rinf/nastavni-materijali) – Središnje mjesto za materijale s raznih kolegija
 *   [prompt-engineering](https://github.com/unin-rinf/prompt-engineering) - Savjeti i upute kod pisanja prompt-ova za Text-2-Text AI modele
 *   [kolokviji-i-ispiti](https://github.com/unin-rinf/kolokviji-i-ispiti) – Zbirka materijala za kolokvije i ispite raznih kolegija
