@@ -28,5 +28,13 @@ Kako bi sustav ostao funkcionalan, svi korisnici dužni su se pridržavati:
 *   Obveze pisanja README dokumentacije za svaki novi repozitorij
 *   Transparentnog izvještavanja o uporabi AI alata u radu
 
+### 🔗 Korisne poveznice
+* [Sustav Merlin 25/26](https://moodle.srce.hr/2025-2026/auth/simplesaml/login.php?lang=hr)
+* [Službeno web-mjesto Sveučilišta Sjever](https://www.unin.hr)
+* [Odjel RINF na službenom web-mjestu](https://www.unin.hr/racunarstvo-i-informatika/)
+* [Raspored predavanja - 1. godina](https://sites.google.com/unin.hr/rinf/raspored-rinf-1-godina)
+* [Raspored predavanja - 2. godina](https://sites.google.com/unin.hr/rinf/raspored-rinf-2-godina)
+* [Raspored predavanja - 3. godina](https://sites.google.com/unin.hr/rinf/raspored-rinf-3-godina)
+* [Nastavni kalendar 25/26](https://www.unin.hr/wp-content/uploads/Akademski-kalendar-25_26.pdf)
 ---
 *Projektni zadatak studenata Odjela RINF, ak. god. 2025./2026. - Autori: Ivan Smesnik, Antonio Kolar*
