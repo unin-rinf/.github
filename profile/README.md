@@ -29,6 +29,7 @@ Kako bi sustav ostao funkcionalan, svi korisnici dužni su se pridržavati:
 *   Transparentnog izvještavanja o uporabi AI alata u radu
 
 ### 🔗 Korisne poveznice
+* [Dokumentacija projekta](https://docs.google.com/presentation/d/1AywsMEo7r3RQiob3KSjH3awaFQlbYL1M/edit?usp=sharing&ouid=111483676064985458933&rtpof=true&sd=true)
 * [Sustav Merlin 25/26](https://moodle.srce.hr/2025-2026/auth/simplesaml/login.php?lang=hr)
 * [Službeno web-mjesto Sveučilišta Sjever](https://www.unin.hr)
 * [Odjel RINF na službenom web-mjestu](https://www.unin.hr/racunarstvo-i-informatika/)
