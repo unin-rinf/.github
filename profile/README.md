@@ -37,4 +37,10 @@ Kako bi sustav ostao funkcionalan, svi korisnici dužni su se pridržavati:
 * [Raspored predavanja - 3. godina](https://sites.google.com/unin.hr/rinf/raspored-rinf-3-godina)
 * [Nastavni kalendar 25/26](https://www.unin.hr/wp-content/uploads/Akademski-kalendar-25_26.pdf)
 ---
+
+### Infograf organizacije (Krierano od strane NotebookLM)
+![](/assets/img/org-infograf.jpg)
+
 *Projektni zadatak studenata Odjela RINF, ak. god. 2025./2026. - Autori: Ivan Smesnik, Antonio Kolar*
+
+
