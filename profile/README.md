@@ -37,6 +37,7 @@ Kako bi sustav ostao funkcionalan, svi korisnici dužni su se pridržavati:
 * [Raspored predavanja - 2. godina](https://sites.google.com/unin.hr/rinf/raspored-rinf-2-godina)
 * [Raspored predavanja - 3. godina](https://sites.google.com/unin.hr/rinf/raspored-rinf-3-godina)
 * [Nastavni kalendar 25/26](https://www.unin.hr/wp-content/uploads/Akademski-kalendar-25_26.pdf)
+* [Nauči Git - Interaktivno](https://learngitbranching.js.org/)
 ---
 
 ### Infograf organizacije (Krierano od strane NotebookLM)
